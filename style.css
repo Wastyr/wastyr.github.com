@@ -1,0 +1,23 @@
+body {
+	height:1000px;
+	width:500px;
+	font-family: sans-serif;
+	font-size: 24px;
+	background:#181818;
+	color:#FFFFFF;
+}
+	
+.nav {
+	position:fixed;
+	margin:0px;
+	padding:0px;
+}
+.nav li {
+	font-size: 12px;
+	color:#6F07DE;
+	list-style-type:none;
+	text-decoration:none;
+}
+.content {
+	margin-left:150px;
+}
